@@ -1,6 +1,6 @@
-# Curso de Machine Learning
+# Curso de Segundo de ASIX
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
+Este repositorio contiene el material del curso de segundo de ASIX desarrollado por Ilyass Khaleq.
 
 ## Contenido
 
@@ -12,14 +12,14 @@ Este repositorio contiene el material del curso de Machine Learning desarrollado
 
 Este repositorio está preparado para ser publicado con GitHub Pages.  
 Puedes ver la versión web pública en:  
-https://mireiaconsarnau.github.io/machine_learning/
+https://ilyasskhaleq.github.io/asix2ilyass/
 
 ## Licencia
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 
 ---
 
-© 2025 Mireia Consarnau
+© 2025 Ilyass Khaleq
 
