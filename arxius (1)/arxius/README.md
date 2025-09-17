@@ -1,6 +1,6 @@
 # Curso de Machine Learning
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
+Este repositorio contiene el material del curso de segundo de ASIX desarrollado por Ilyass Khaleq.
 
 ## Contenido
 
