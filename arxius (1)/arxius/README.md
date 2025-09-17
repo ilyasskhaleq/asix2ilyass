@@ -1,4 +1,4 @@
-# Curso de Machine Learning
+# Curso de segundo de ASIX
 
 Este repositorio contiene el material del curso de segundo de ASIX desarrollado por Ilyass Khaleq.
 
