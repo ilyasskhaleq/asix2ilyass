@@ -3,7 +3,7 @@ layout: default
 title: "ASIX2 ILYASS"
 ---
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
+Este repositorio contiene el material del curso de segundo de ASIX desarrollado por Ilyass khaleq.
 
 - Índice y enlaces a las unidades del curso.
 - Recursos en formato PDF, vídeos, y Google Colab.
