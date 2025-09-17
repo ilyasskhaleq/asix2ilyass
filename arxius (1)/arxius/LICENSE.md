@@ -1,6 +1,6 @@
 # Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 3.0 España (CC BY-NC-SA 3.0)
 
-Este trabajo está licenciado bajo la [Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 3.0 España (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/es/).
+Este trabajo está licenciado bajo la [Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 3.0 España (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/es/).
 
 ---
 
@@ -17,7 +17,7 @@ Esta licencia permite que otros compartan, copien y distribuyan tu trabajo, así
 ## Texto legal completo
 
 Puedes consultar el texto completo de la licencia aquí:  
-https://creativecommons.org/licenses/by-nc-sa/3.0/es/legalcode
+https://creativecommons.org/licenses/by-nc-sa/4.0/es/legalcode
 
 ---
 
