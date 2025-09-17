@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Curso de Machine Learning"
+title: "ASIX2 ILYASS KHALEQ"
 ---
 
 Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
