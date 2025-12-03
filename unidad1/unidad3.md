@@ -1,9 +1,23 @@
 SKernel  
-![][image1]  
-![][image2]  
-![][image3]
+<img width="864" height="120" alt="image" src="https://github.com/user-attachments/assets/4157d784-0b8a-40a9-9031-924875d9dcc9" />
+<img width="993" height="588" alt="image" src="https://github.com/user-attachments/assets/98ce059f-e862-42f4-897a-32fb29d24df1" />
+<img width="994" height="521" alt="image" src="https://github.com/user-attachments/assets/83746c44-039e-4eee-8e73-81d97ab6d7f6" />
+<img width="992" height="478" alt="image" src="https://github.com/user-attachments/assets/0c93c4a3-33fd-48a7-a89c-291710eee197" />
+<img width="996" height="256" alt="image" src="https://github.com/user-attachments/assets/2ddaca63-6480-4aa4-9c4b-75f56ac91b5c" />
+<img width="992" height="576" alt="image" src="https://github.com/user-attachments/assets/6d2b4675-875c-4e2f-8016-94dbb8f4faa3" />
+<img width="989" height="272" alt="image" src="https://github.com/user-attachments/assets/fc47963e-16f7-493d-99ba-02aca17b9a91" />
+<img width="985" height="296" alt="image" src="https://github.com/user-attachments/assets/10bd5f8b-8ea5-4c66-bb79-5a3dbf1c3b60" />
 
-![][image4]  
+<img width="992" height="594" alt="image" src="https://github.com/user-attachments/assets/5c43f14a-ed3c-48f7-8230-af0fe5c9e701" />
+<img width="990" height="288" alt="image" src="https://github.com/user-attachments/assets/cea0294a-c11d-43e8-ac45-689c3dab9a23" />
+
+<img width="989" height="642" alt="image" src="https://github.com/user-attachments/assets/8afb08c4-1fe0-47d0-a5e3-e844645fd87a" />
+
+<img width="983" height="596" alt="image" src="https://github.com/user-attachments/assets/591b0c01-2304-4183-af6f-2c98c943aa29" />
+
+<img width="993" height="323" alt="image" src="https://github.com/user-attachments/assets/ec39ca99-315f-465d-854a-3f62f667bd28" />
+
+
 Instalem el nou kernel.
 
 add-apt-repository ppa:ca![][image5]ppelikan/ppa
