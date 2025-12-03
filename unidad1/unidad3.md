@@ -4,9 +4,7 @@ SKernel
 ![][image3]
 
 ![][image4]  
-Instalem el nou kernel.
-
-add-apt-repository ppa:ca![][image5]ppelikan/ppa
+![][image5]
 
 ![][image6]  
 ![][image7]  
