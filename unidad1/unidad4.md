@@ -13,29 +13,29 @@ Finalment, confirmem i instal·lem.
 I seguim els següents passos.
 <img width="901" height="644" alt="image" src="https://github.com/user-attachments/assets/9c4d41bd-3f87-4d06-8d28-69d1138d6512" />
 
-Agrguem la la interfaz que volem conectar.
+
 <img width="780" height="743" alt="image" src="https://github.com/user-attachments/assets/368a140f-54e7-4945-884d-7c5745218fce" />
 
-I posem el rang d'ip's
+Agrguem la la interfaz que volem conectar.
  <img width="781" height="460" alt="image" src="https://github.com/user-attachments/assets/a4c3fec3-e9f7-4a90-96c0-2ea57081132f" />
 
-Següent.
+I posem el rang d'ip's
 <img width="777" height="389" alt="image" src="https://github.com/user-attachments/assets/8874234b-8a0d-433e-8816-81e5f80aac6f" />
 
-Creem el usuari.
+Següent.
 <img width="735" height="511" alt="image" src="https://github.com/user-attachments/assets/994797fb-83ed-49fa-be07-5979c0b79318" />
 
-
+Creem el usuari.
 <img width="786" height="716" alt="image" src="https://github.com/user-attachments/assets/3c53c684-8922-4b30-8ab9-1d02f2792fa9" />
 
-
+Important posar que es permeteix l'accés.
 <img width="649" height="597" alt="image" src="https://github.com/user-attachments/assets/37bb7889-e64d-446e-9fdd-336d2797d60f" />
 
-Important posar que es permeteix l'accés.
+En el client creem una nova red.
 <img width="685" height="357" alt="image" src="https://github.com/user-attachments/assets/04c208a3-89f8-4904-b870-19b8829bcc75" />
 
 
-En el client creem una nova red.
+
 <img width="943" height="669" alt="image" src="https://github.com/user-attachments/assets/8bd95248-f928-473f-8ae6-
 5d4ae8e784e9" />
 
