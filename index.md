@@ -20,4 +20,4 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 ### [Unidad 3](unidad1/unidad3.md)
 ### [Unidad 4](unidad1/unidad4.md)
 ### [Unidad 5](unidad1/unidad5.md)
-### [Unidad 6](unidad1/unidad6.md)
+### [Unidad 6](unidad1/unidad_f.md)
