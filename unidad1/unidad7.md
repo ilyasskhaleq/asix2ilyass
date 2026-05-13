@@ -5,7 +5,7 @@
 1. [Què és BistroStreet?](#1-què-és-bistrostreet)
 2. [Arquitectura del Sistema](#2-arquitectura-del-sistema)
 3. [Requisits Previs](#3-requisits-previs)
-4. [Instal·lació Pas a Pas](#4-instal·lació-pas-a-pas)
+4. [Instal·lació Pas a Pas](#4-installació-pas-a-pas)
 5. [Accés a les Interfícies](#5-accés-a-les-interfícies)
 6. [Comandes Útils](#6-comandes-útils)
 7. [Estructura del Projecte](#7-estructura-del-projecte)
