@@ -21,4 +21,4 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 ### [Unidad 4](unidad1/unidad4.md)
 ### [Unidad 5](unidad1/unidad5.md)
 ### [Unidad 6](unidad1/unidad_f.md)
-### [Unidad 7](unidad1/unidad_7.md)
+### [Unidad 7](unidad1/unidad7.md)
