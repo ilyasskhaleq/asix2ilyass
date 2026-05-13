@@ -1,4 +1,4 @@
-# 🍽️ BistroStreet — Guia d'Execució Local amb Docker i Node.js (ACTUALITZACIÓ: Ara esta hosteijat al domini bistrostreet.es)
+# 🍽️ BistroStreet — Guia d'Execució Local amb Docker i Node.js (ACTUALITZACIÓ: Ara esta hosteijat al domini [bistrostreet.es](https://bistrostreet.es/menu))
 
 ## 📖 Índex
 
